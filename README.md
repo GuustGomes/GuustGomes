@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/krwTfty.png)](https://rishavchanda.io)
+![MasterHead](https://i.imgur.com/Uh2Z3R0.png)
 
 <h1 align="center">Hi, I'm Gustavo Oliveira 👋</h1>
 <h3 align="center">A passionate Data analyst</h3>
